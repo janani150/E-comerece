@@ -1,6 +1,6 @@
-# E-commerce Project 🛒
+# E-learning Platform 📚
 
-Welcome to the E-commerce Project! This repository provides a foundational template for building a fully functional e-commerce website or application using front-end technologies.
+Welcome to the E-learning Platform! This repository provides a foundational template for building a fully functional online learning application using front-end technologies.
 
 ## Table of Contents 📚
 - [Features](#features)
@@ -8,7 +8,7 @@ Welcome to the E-commerce Project! This repository provides a foundational templ
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features ✨
 - User-friendly product catalog with search and filter functionality 🔍
