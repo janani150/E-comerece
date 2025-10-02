@@ -9,12 +9,11 @@ Welcome to the E-learning Platform! This repository provides a foundational temp
 - [Usage](#usage)
 - [Contributing](#contributing)
 
-
 ## Features ✨
-- User-friendly product catalog with search and filter functionality 🔍
-- Shopping cart interface for adding and removing items 🛍️
+- User-friendly course catalog with search and filter functionality 🔍
+- Course enrollment and progress tracking 📈
 - Responsive design for mobile and desktop devices 📱💻
-- Basic UI components for product display and navigation 🖼️
+- Basic UI components for course display and navigation 🖼️
 
 ## Technology Stack 🛠️
 This project utilizes the following technologies:
@@ -27,12 +26,12 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/janani150/E-comerece.git
+   git clone https://github.com/janani150/E-learnig.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd E-comerece
+   cd E-learnig
    ```
 
 3. Install the necessary dependencies (if applicable):
@@ -65,5 +64,4 @@ Contributions are welcome! If you have suggestions for improvements or want to r
    git push origin feature/YourFeature
    ```
 5. Open a pull request.
-
 
